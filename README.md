@@ -1,2 +1,5 @@
 # psychic-octo-nemesis
-She Sharp new website!
+
+This is the She Sharp team new website!
+
+Codename `Psychic Octo Nemesis`
